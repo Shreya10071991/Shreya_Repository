@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/ecj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/Apache POI/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/selenium-java-3.14.0/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programming Application/cucumber/junit-4.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
